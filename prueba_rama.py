@@ -20,3 +20,11 @@ for i in lista:
 lista = [16,20,30]
 for i in lista:
     print(i2)
+    
+lista = [16,20,30]
+for i in lista:
+    print(i2)
+
+lista = [16,20,30]
+for i in lista:
+    print(i2)
